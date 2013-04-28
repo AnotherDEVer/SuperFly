@@ -14,9 +14,9 @@ public final class SuperFly extends JavaPlugin
 			{
 				Player player = (Player) sender;
 				
-				if (player.getFlySpeed() > 0.2f)
+				if (player.getFlySpeed() > 0.1f)
 				{
-					player.setFlySpeed(0.2f);
+					player.setFlySpeed(0.1f);
 				}
 				
 				else
