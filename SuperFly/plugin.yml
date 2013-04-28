@@ -1,0 +1,9 @@
+name: SuperFly
+main: anotherDEVer.SuperFly.SuperFly
+version: .1
+commands:
+  superfly:
+    Description: Allows the player to fly at super fast speeds.
+    usage: /superfly
+    permission: SuperFly.superfly
+    permission-message: You don't have <permission>.
